@@ -1,2 +1,1 @@
-# ProjetJS
-Projet Javascript en CIR1
+# groupe4cir1n.github.io
